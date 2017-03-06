@@ -13,4 +13,4 @@ Import the header into your project and then use one or more of the following me
 - setVerticalScrollerTintColor:(UIColor*)color;
 - setHorizontalScrollerTintColor:(UIColor*)color;
 
-![UIScrollView+ScrollerAdditions](https://drive.google.com/file/d/0ByLCkUO90ltoUHljdm1ESlc2YVE/view?usp=sharing)
+![UIScrollView+ScrollerAdditions](https://drive.google.com/uc?export=download&id=0ByLCkUO90ltoUHljdm1ESlc2YVE)
